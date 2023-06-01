@@ -1,0 +1,13 @@
+.primerParrafo {
+    background-color: blue;
+    width: 50%;
+}
+
+.segundoParrafo {
+    background-color: yellow;
+    padding-left: 25%;
+}
+
+body {
+    background-color: gray;
+}
